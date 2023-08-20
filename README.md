@@ -1,3 +1,3 @@
 # data_science
 
-Exercises, homeworks and quizzes from enrolled Data Science Course at Software University (SoftUni).
+Exercises, homeworks and quizzes from enrolled course "Data Science" at Software University (SoftUni).
